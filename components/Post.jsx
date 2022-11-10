@@ -5,6 +5,14 @@ import styles from "../styles"
 export default function Post({ post }) {
     return (
         <View style={styles.card}>
+            <View>
+
+                <Avatar source={{ uri: post.profilePhoto }} rounded />
+
+                <Text style={styles.userName}>{post.userName} </Text>
+
+
+            </View>
             <Image source={{ uri: post.photoURL }} style={styles.image}
                 PlaceholderContent={<ActivityIndicator />}
 
