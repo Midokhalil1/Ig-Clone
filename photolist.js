@@ -5,8 +5,8 @@ const photolist = [
     { 
         id:1,
         photoURL :'https://images.unsplash.com/photo-1667064228468-5b614b7272fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2ODA5NDY5Nw&ixlib=rb-4.0.3&q=80&w=1080https://images.unsplash.com/photo-1667335630421-3cad08d5f139?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2ODA5MTMyNg&ixlib=rb-4.0.3&q=80&w=1080',
-        description: 'camera on tripod',
-        userName: 'ww',
+        description: 'Coffee Shop',
+        userName: 'cafe del Mar',
 profilePhoto: 'https://randomuser.me/api/portraits/women/4.jpg',
 
 },

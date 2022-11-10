@@ -36,7 +36,7 @@ const styles = StyleSheet.create ({
 
     userName: {
         margin: 8,
-        fontSize: 18,
+        fontSize: 25,
         fontWeight: '600',
     },
 
