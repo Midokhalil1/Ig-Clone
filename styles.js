@@ -3,7 +3,7 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create ({
 
     feed: {
-        marginTop: 50,
+        // marginTop: 50,
         flex: 1,
         backgroundColor: 'white',
 
